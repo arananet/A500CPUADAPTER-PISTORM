@@ -3,9 +3,10 @@ This simple adapter allows to relocate the pistorm to avoid problems with the a5
 
 # Images
 
-<img src="https://github.com/arananet/A500CPUADAPTER-PISTORM/blob/main/images/1.png?raw=true" width="700">
-
-<img src="https://github.com/arananet/A500CPUADAPTER-PISTORM/blob/main/images/2.png?raw=true" width="700">
+<p float="left">
+  <img src="https://github.com/arananet/A500CPUADAPTER-PISTORM/blob/main/images/1.png?raw=true" width="700">
+  <img src="https://github.com/arananet/A500CPUADAPTER-PISTORM/blob/main/images/2.png?raw=true" width="700">
+</p>
 
 # PCB information
 
