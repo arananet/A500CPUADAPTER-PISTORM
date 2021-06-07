@@ -9,9 +9,9 @@ This simple adapter allows to relocate the pistorm to avoid problems with the a5
 
 2 layer board. Use your favorite pcb manufacturer to build this pcb using the gerbers available on the gerbers folder. Recommended PCB manufacturers: ALLPCB, JLCPCB and PCBWAY.
 
-# External parts
+# Bom
 
-In order to build your relocator, you will need 2 female pins and two male to male pins. Here are the example references.
+In order to build your relocator, you will need 2 female pins and two male to male pins. Also a 0805 22uf 16v smd capacitor. As for the pins, Here are the example references.
 
 1x40 male to male pins.
 
