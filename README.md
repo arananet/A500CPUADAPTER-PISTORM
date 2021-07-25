@@ -1,6 +1,8 @@
 # A500CPUADAPTER-PISTORM
 This simple adapter allows to relocate the pistorm to avoid problems with the a500 keyboard and be able to properly close the case. It has been designed specially to use with the PISTORM board (Claude's Schwarz design).
 
+This board distribution is based on my A500 Clockport adapter and not based on someone's else design.
+
 # Images
 
 <img src="https://github.com/arananet/A500CPUADAPTER-PISTORM/blob/main/images/1junto.png?raw=true" width="700">
