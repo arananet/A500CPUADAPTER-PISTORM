@@ -5,7 +5,7 @@ This board distribution is based on my A500 Clockport adapter and not based on s
 
 # Images
 
-<img src="https://github.com/arananet/A500CPUADAPTER-PISTORM/blob/main/images/1junto.png?raw=true" width="700">
+<img src="https://github.com/arananet/A500CPUADAPTER-PISTORM/blob/main/images/1.png?raw=true" width="700">
 
 # PCB information
 
