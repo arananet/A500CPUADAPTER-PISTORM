@@ -5,7 +5,7 @@ This board distribution is based on my A500 Clockport adapter and not based on s
 
 # Images
 
-<img src="https://github.com/arananet/A500CPUADAPTER-PISTORM/blob/main/images/1nuevo.png?raw=true" width="700">
+<img src="https://github.com/arananet/A500CPUADAPTER-PISTORM/blob/main/images/3.png?raw=true" width="700">
 
 # PCB information
 
@@ -24,6 +24,7 @@ https://es.aliexpress.com/item/32855402975.html?spm=a2g0o.productlist.0.0.67f644
 https://es.aliexpress.com/item/32854325182.html?spm=a2g0o.detail.1000060.2.350fada9Xv7nRh&gps-id=pcDetailBottomMoreThisSeller&scm=1007.13339.169870.0&scm_id=1007.13339.169870.0&scm-url=1007.13339.169870.0&pvid=9b1afe58-2a7a-4338-a981-ace8b2a98808&_t=gps-id:pcDetailBottomMoreThisSeller,scm-url:1007.13339.169870.0,pvid:9b1afe58-2a7a-4338-a981-ace8b2a98808,tpp_buckets:668%230%23131923%230_668%230%23131923%230_668%23888%233325%2314_668%23888%233325%2314_668%232846%238115%232000_668%235811%2327180%2341_668%232717%237567%23940_668%231000022185%231000066059%230_668%233468%2315613%23444_668%232846%238115%232000_668%235811%2327180%2341_668%232717%237567%23940_668%233164%239976%2356_668%233468%2315613%23444
 
 # Update
+13-08-2021 - Fixed socket position again!.
 25-07-2021 - Fixed socket position.
 07-06-2021 - Initial release.
 
